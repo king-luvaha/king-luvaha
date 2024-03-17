@@ -12,7 +12,7 @@ I'm a Full Stack Web Developer with a passion for crafting clean, efficient, and
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/ezra-luvaha]
+- LinkedIn: linkedin.com/in/ezra-luvaha
 - Email: luvaha456@gmail.com
 
 ## 💬 Let's Connect
