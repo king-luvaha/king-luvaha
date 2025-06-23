@@ -1,20 +1,33 @@
 # Hello, I'm Ezra Luvaha 👋
+🎓 Technology Graduate | 🐍 Python Backend Developer | 🚀 Problem Solver
 
-I'm a Full Stack Web Developer with a passion for crafting clean, efficient, and user-friendly web applications. With expertise in HTML, CSS, JavaScript, React, PHP, MERN stack, SQL, and Bootstrap, I strive to create seamless digital experiences that meet both user needs and business goals.
+I'm a passionate backend developer with a strong foundation in Python and a growing portfolio of backend projects — from APIs to automation scripts and CLI tools. My work is focused on writing clean, efficient, and well-documented code that solves real problems.
 
-## 🚀 Skills
+---
 
-- **Languages:** HTML, CSS, JavaScript, PHP
-- **Frontend:** React, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Databases:** SQL (MySQL, PostgreSQL), MongoDB
-- **Tools & Technologies:** Git, RESTful APIs
+##  💻 What I Do
+- 🌐 **Build RESTful APIs** using Flask and FastAPI  
+- 🛠️ **Automate tasks and build tools** to improve workflows  
+- 🧪 **Write tests** and apply best practices in software development  
+- 🗃️ **Work with databases** like SQLite, PostgreSQL & MongoDB  
+- ⚙️ **Deploy apps** and manage environments with Git, Docker, and GitHub Actions
 
-## 📫 Get in Touch
+---
 
-- LinkedIn: linkedin.com/in/ezra-luvaha
-- Email: luvaha456@gmail.com
+## 📂 Projects You'll Find Here
+- ✅ Task management CLI tools  
+- 📊 Data processing scripts and automation  
+- 🔐 Authentication systems and secure APIs  
+- 🧰 Utility libraries and tools for developers  
 
-## 💬 Let's Connect
+---
 
-I'm open to collaboration and new opportunities. Feel free to reach out for any inquiries or just to say hi!
+## 🧠 Currently Learning
+- Django for large-scale web apps  
+- CI/CD pipelines for DevOps workflows  
+- Docker & cloud deployment (Heroku, Render, etc.)
+
+---
+
+> I'm always looking to grow, collaborate, and build meaningful solutions.  
+If any of my projects interest you, feel free to reach out or contribute!
