@@ -3,7 +3,7 @@
 
 I'm a passionate backend developer with a strong foundation in Python and a growing portfolio of backend projects — from APIs to automation scripts and CLI tools. My work is focused on writing clean, efficient, and well-documented code that solves real problems.
 
-📖 **Explore my documentation website:** [Synaptic](https://king-luvaha.github.io/project-wiki/)
+📖 **Explore my documentation website:** [MekSense](https://king-luvaha.github.io/project-wiki/)
 
 ---
 
