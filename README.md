@@ -31,7 +31,5 @@ I'm a passionate backend developer with a strong foundation in Python and a grow
 
 ---
 
-![Snake animation](https://github.com/your-username/your-repo/blob/output/github-contribution-grid-snake.svg)
-
 > I'm always looking to grow, collaborate, and build meaningful solutions.  
 If any of my projects interest you, feel free to reach out or contribute!
