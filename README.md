@@ -11,7 +11,7 @@ I'm a passionate backend developer with a strong foundation in Python and a grow
 - 🌐 **Build RESTful APIs** using Flask and FastAPI  
 - 🛠️ **Automate tasks and build tools** to improve workflows  
 - 🧪 **Write tests** and apply best practices in software development  
-- 🗃️ **Work with databases** like SQLite, PostgreSQL & MongoDB  
+- 🗃️ **Work with databases** like MySQL, SQLite & MongoDB  
 - ⚙️ **Deploy apps** and manage environments with Git, Docker, and GitHub Actions
 
 ---
